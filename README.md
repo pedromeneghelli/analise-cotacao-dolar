@@ -61,7 +61,9 @@ python -m pytest
 
 ## 📊 Dashboard no Power BI
 
-O passo a passo do modelo de dados, as medidas DAX e o layout do painel estão em [`powerbi/medidas_dax.md`](powerbi/medidas_dax.md).
+![Dashboard no Power BI](imagens/dashboard.png)
+
+O passo a passo do modelo de dados, as medidas DAX e o layout do painel estão em [`powerbi/medidas_dax.md`](powerbi/medidas_dax.md). O arquivo do painel está em [`powerbi/dashboard_dolar.pbix`](powerbi/dashboard_dolar.pbix).
 
 ## 📁 Estrutura
 
